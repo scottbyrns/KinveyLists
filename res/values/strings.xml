@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">KinveyLists</string>
+    <string name="add_list">New List</string>
+    <string name="list_detail">List Detail View</string>
+    <string name="new_list">New List</string>
+    <string name="edit_list">Edit List`</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_list_item">Add Item</string>
+    <string name="item_name">Item name</string>
+    <string name="item_desc">Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="new_item">New Item</string>
+    <string name="edit_item">Edit Item</string>
+</resources>
